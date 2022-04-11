@@ -1,0 +1,33 @@
+.jumbotron {
+    background-image: url("../image/beach.jpg");
+    background-size: cover;
+}
+
+.carousel-caption {
+    text-shadow: 1px 1px 10px black, 1px 1px 10px black;
+}
+
+#bimage, #bimage2 {
+    border: solid 5px black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px #000000;
+    margin-bottom: 1.5rem;
+}
+
+#signup {
+    text-align: center;
+    
+    background-color: #55828B;
+}
+
+#pi {
+    font-family: 'Satisfy', cursive;
+}
+
+#ckb, p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2, h3, a, label {
+    font-family: 'Cinzel', serif;
+}

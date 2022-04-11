@@ -1,0 +1,11 @@
+<svg id="UserIcon" width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nav/Main-Desktop" transform="translate(-1368.000000, -11.000000)" stroke="#FFFFFF" stroke-width="0.964785937">
+            <g id="icons/user/reverse" transform="translate(1367.000000, 10.000000)">
+                <path d="M10.4196881,16.4978395 C12.1563028,15.918968 13.3140459,15.3400964 13.8929175,14.7612248 C14.7612248,13.8929175 12.1563028,13.8929175 12.1563028,9.55138078 C12.1563028,6.65702297 13.3140459,5.20984406 15.6295322,5.20984406" id="Path-4" stroke-linecap="round" transform="translate(13.024610, 10.853842) scale(-1, 1) translate(-13.024610, -10.853842) "></path>
+                <path d="M5.20984406,16.4978395 C6.94645875,15.918968 8.10420188,15.3400964 8.68307344,14.7612248 C9.55138078,13.8929175 6.94645875,13.8929175 6.94645875,9.55138078 C6.94645875,6.65702297 8.10420188,5.20984406 10.4196881,5.20984406" id="Path-4" stroke-linecap="round"></path>
+                <circle id="Oval" cx="10.4196881" cy="10.4196881" r="8.68307344"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

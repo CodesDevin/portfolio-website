@@ -1,0 +1,12 @@
+<svg id="CloseIcon" width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g id="Page-Templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+            <g id="Itinerary---Modal---Mobile" transform="translate(-350.000000, -138.000000)" stroke="#FFFFFF">
+                <g id="icons/close/reverse" transform="translate(340.000000, 128.000000)">
+                    <g id="Group" transform="translate(21.600000, 21.741421) rotate(-315.000000) translate(-21.600000, -21.741421) translate(7.100000, 7.241421)">
+                        <path d="M28.8,14.4 L0,14.4" id="Path-2" stroke-width="1.8"></path>
+                        <path d="M14.4,0 L14.4,28.8" id="Path-2" stroke-width="1.8"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </svg>

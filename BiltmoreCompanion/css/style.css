@@ -1,0 +1,35 @@
+.navbar {
+    background-color: #9C761C;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.navbar li a {
+    font-family: 'Cinzel', serif;
+}
+
+.card {
+    border: 1px solid black;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.card h4 {
+    font-family: 'Cinzel', serif;
+}
+
+.card p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+    background-color: #9C761C;
+    font-family: 'Roboto', sans-serif;
+}
+
+footer {
+    width: 100%;
+    margin: 0;
+    background-color: #9C761C;
+}
+
+/* font-family: 'Cinzel', serif; */
+/* font-family: 'Roboto', sans-serif; */

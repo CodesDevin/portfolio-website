@@ -1,0 +1,101 @@
+/* GLOBAL */
+
+* {
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+.links a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+/* ANNOUNCEMENTS */
+
+.annbor {
+    border: 1px solid black;
+    margin-top: 5px;
+    background-color: lightgoldenrodyellow;
+}
+
+.annbor h1 {
+    color: white;
+}
+
+.ann1 {
+    padding: .5rem;
+    background-color: #5b93cb;
+    border-bottom: 1px solid black;
+}
+
+.ann1 h1 {
+font-size: 1.5rem;
+font-weight: bolder;
+}
+
+.ann2 {
+    padding: .5rem;
+}
+
+.ann2 p {
+    color: red;
+}
+
+/* JUMBOTRON */
+
+.jumbotron {
+    background: url("../img/countyland2.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+.jumbotron h1 {
+    font-size: 4rem;
+    margin: .1em 0 0 0;
+    color: white;
+    -webkit-text-stroke: 1px black;
+}
+
+.jumbotron p {
+    font-size: 2rem;
+    color: white;
+    -webkit-text-stroke: 1px black;
+}
+
+/* NAVIGATION */
+
+.navbar {
+    background-color: #5b93cb;
+    margin-bottom: 1rem;
+}
+
+/* CAROUSEL / QUICK LINKS */
+
+.carousel {
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
+.quick2 h4 {
+    background-color: #5b93cb;
+    color: white;
+    text-align: center;
+}
+
+.quick1 {
+    border: 1px solid white;
+}
+
+.quick1 a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.quick1 ul {
+    text-align: center;
+}
+
+/* FOOTER */
+.footer {
+    background-color: #5b93cb;
+}
